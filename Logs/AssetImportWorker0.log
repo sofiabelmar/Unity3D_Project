@@ -1,0 +1,520 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/sofia/Documents/VideojuegosI/Unity3D_Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50889
+Successfully changed project path to: C:/Users/sofia/Documents/VideojuegosI/Unity3D_Project
+C:/Users/sofia/Documents/VideojuegosI/Unity3D_Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/sofia/Documents/VideojuegosI/Unity3D_Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   27.21.14.5709
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56740
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001529 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.975 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 40.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.823 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.1 MB.
+System memory in use after: 112.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2835.
+Total: 4.416200 ms (FindLiveObjects: 0.414400 ms CreateObjectMapping: 0.219600 ms MarkObjects: 3.679900 ms  DeleteObjects: 0.100300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf6c1105aea63a748fcaa5f7f2e0893d') in 0.038197 seconds
+  Import took 0.041713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 440.676754 seconds.
+  path: Assets/Kevin Iglesias
+  artifactKey: Guid(e0a30123f00535b4b82ec9725940bda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias using Guid(e0a30123f00535b4b82ec9725940bda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ee36b37cbfcece9ef5338da8895cfa') in 0.006676 seconds
+  Import took 0.011136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006309 seconds.
+  path: Assets/Kevin Iglesias
+  artifactKey: Guid(e0a30123f00535b4b82ec9725940bda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias using Guid(e0a30123f00535b4b82ec9725940bda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ee36b37cbfcece9ef5338da8895cfa') in 0.002516 seconds
+  Import took 0.006227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.120780 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack
+  artifactKey: Guid(2cb279c410b7a3e4dbf4aab42283effa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack using Guid(2cb279c410b7a3e4dbf4aab42283effa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e2513808b49bb35ba1e7645ebacda7') in 0.006438 seconds
+  Import took 0.010459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.091551 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Models
+  artifactKey: Guid(c310a300a0358f94f81e0eeb585d6cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Models using Guid(c310a300a0358f94f81e0eeb585d6cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '500641b0e982f68e27e49591f4149512') in 0.008341 seconds
+  Import took 0.012926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.462133 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Prefabs
+  artifactKey: Guid(09f81d62173a5e740ac94844bbe0316e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Prefabs using Guid(09f81d62173a5e740ac94844bbe0316e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69815bf6b70ff3646a4e23ec8de99755') in 0.005994 seconds
+  Import took 0.009476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.106152 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Idle.prefab
+  artifactKey: Guid(c3b5979cdf315164681df5c9d08153a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Idle.prefab using Guid(c3b5979cdf315164681df5c9d08153a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4be1cd43792bf3b1dee84a87e8e6a0d') in 0.214557 seconds
+  Import took 0.218792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Run.prefab
+  artifactKey: Guid(f98aac9a2d9d46b43a1e3fa2fff8cecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Run.prefab using Guid(f98aac9a2d9d46b43a1e3fa2fff8cecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca25c488139b61a2ad12d9a79ee65677') in 0.022172 seconds
+  Import took 0.025566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Sprint.prefab
+  artifactKey: Guid(bd321aca8af104c4c815e3f5ec1bc5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Sprint.prefab using Guid(bd321aca8af104c4c815e3f5ec1bc5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a96d1062ad4b7c0b96ebc7f7cd0de13') in 0.023216 seconds
+  Import took 0.026754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Run Backwards.prefab
+  artifactKey: Guid(cdf649e1dda39be4a96921f09c284809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Run Backwards.prefab using Guid(cdf649e1dda39be4a96921f09c284809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb8e896fa068dc423c1b601ed1cbc76') in 0.021660 seconds
+  Import took 0.025285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Walk.prefab
+  artifactKey: Guid(ff187f87b5b6b5e44a37a774ddaa7d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Walk.prefab using Guid(ff187f87b5b6b5e44a37a774ddaa7d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2faaec9f5278347d65e9c95cbb32234d') in 0.024672 seconds
+  Import took 0.028675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Jump.prefab
+  artifactKey: Guid(b7b4d563a6801284ea7f3190ff6ec97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Prefabs/Basic Motions Dummy - Jump.prefab using Guid(b7b4d563a6801284ea7f3190ff6ec97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ba1028b90bbd4588cdba0c95e756dc') in 0.023261 seconds
+  Import took 0.027226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.399720 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Animations
+  artifactKey: Guid(7eb11f9df068c2b45bc52cfc0d6e3f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Animations using Guid(7eb11f9df068c2b45bc52cfc0d6e3f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a04f384b372b649155441991b64c239a') in 0.006017 seconds
+  Import took 0.009395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071344 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Idle01 - Idle02.fbx
+  artifactKey: Guid(f76369a9462327a4eb446ad259708577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Idle01 - Idle02.fbx using Guid(f76369a9462327a4eb446ad259708577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6109e720a7b4b2e9b2134e2e4d4ad303') in 0.039917 seconds
+  Import took 0.043542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Idle01.fbx
+  artifactKey: Guid(59a515d01e333a74c82eb5c7c8434049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Idle01.fbx using Guid(59a515d01e333a74c82eb5c7c8434049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7a583377979fbe9d4d6d801e0aa3ff') in 0.010443 seconds
+  Import took 0.013773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@RunBackwards01.fbx
+  artifactKey: Guid(1824a4a2dfb1f504d986afd32c89d22c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@RunBackwards01.fbx using Guid(1824a4a2dfb1f504d986afd32c89d22c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba63f47a90f66952904a18c658128002') in 0.009755 seconds
+  Import took 0.013312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Run01.fbx
+  artifactKey: Guid(cdcf0f712db52854aaa116824fd83296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Run01.fbx using Guid(cdcf0f712db52854aaa116824fd83296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13524c361753ee06999f897c07b05401') in 0.009877 seconds
+  Import took 0.014389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Idle02 - Idle01.fbx
+  artifactKey: Guid(1f0b2bcd26555054ebe091c163eed39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Idle02 - Idle01.fbx using Guid(1f0b2bcd26555054ebe091c163eed39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8c7d8b399905a95ace095522ead8c9') in 0.009202 seconds
+  Import took 0.012822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Jump01.fbx
+  artifactKey: Guid(7f0ffdcc529388b48bf0f30b84d26263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Jump01.fbx using Guid(7f0ffdcc529388b48bf0f30b84d26263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdc8554c86d4344ee1ca3e66983f5f80') in 0.017614 seconds
+  Import took 0.021484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Walk01.fbx
+  artifactKey: Guid(6e2bfa8498b0db840865dd4eb42ce0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Walk01.fbx using Guid(6e2bfa8498b0db840865dd4eb42ce0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32192d72c6a903b98fb62d45de32490e') in 0.010189 seconds
+  Import took 0.013932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Sprint01.fbx
+  artifactKey: Guid(89b9b900b51d4df4cbe7f2a5373669ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Sprint01.fbx using Guid(89b9b900b51d4df4cbe7f2a5373669ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30afe72b8c6c4891a2f7d2ffdec51808') in 0.009601 seconds
+  Import took 0.014060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Idle02.fbx
+  artifactKey: Guid(3e331de7ae1981a4d80aa5799e9b3afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Animations/BasicMotions@Idle02.fbx using Guid(3e331de7ae1981a4d80aa5799e9b3afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85bf7b5e758b6b5566499f0083bcb726') in 0.009435 seconds
+  Import took 0.013237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.711852 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Models/Basic Motions Dummy.fbx
+  artifactKey: Guid(5917c0e93d180a842b61d1ebc62a195c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Models/Basic Motions Dummy.fbx using Guid(5917c0e93d180a842b61d1ebc62a195c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e422908a1fd141b32f556239b0e50c00') in 0.055844 seconds
+  Import took 0.059713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.832740 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Models/Player.controller
+  artifactKey: Guid(37316ccf99a0aa747ad3010fde595fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Models/Player.controller using Guid(37316ccf99a0aa747ad3010fde595fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b83e3c7f61001dcc645c294b31db10') in 0.008563 seconds
+  Import took 0.011975 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001207 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2283 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.5 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2887.
+Total: 2.285200 ms (FindLiveObjects: 0.346000 ms CreateObjectMapping: 0.170600 ms MarkObjects: 1.749300 ms  DeleteObjects: 0.017800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001195 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2283 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.5 MB.
+System memory in use after: 124.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2889.
+Total: 2.451000 ms (FindLiveObjects: 0.289200 ms CreateObjectMapping: 0.121100 ms MarkObjects: 2.021300 ms  DeleteObjects: 0.017700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 188.282535 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Models/Player.controller
+  artifactKey: Guid(37316ccf99a0aa747ad3010fde595fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Models/Player.controller using Guid(37316ccf99a0aa747ad3010fde595fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7aa0b237c559988c496f693e8936186') in 0.016804 seconds
+  Import took 0.020362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.307193 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions Pack/Models/Player.controller
+  artifactKey: Guid(37316ccf99a0aa747ad3010fde595fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions Pack/Models/Player.controller using Guid(37316ccf99a0aa747ad3010fde595fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3009c1185c8518782c57aca9e15343') in 0.005684 seconds
+  Import took 0.009771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.830609 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(02a3527b6b33a924e8ec66aa805ea717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(02a3527b6b33a924e8ec66aa805ea717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dee8d497d1bd0eb168213dadc1c50a3c') in 0.006991 seconds
+  Import took 0.010792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.139956 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(936368b9ccc9db44aa729d2b82a5534f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(936368b9ccc9db44aa729d2b82a5534f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f07362f46fe474b4da293f969705528') in 0.012715 seconds
+  Import took 0.016261 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001200 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.846 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2283 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.6 MB.
+System memory in use after: 124.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2891.
+Total: 1.929800 ms (FindLiveObjects: 0.244100 ms CreateObjectMapping: 0.113700 ms MarkObjects: 1.555200 ms  DeleteObjects: 0.015900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.446800 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(936368b9ccc9db44aa729d2b82a5534f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(936368b9ccc9db44aa729d2b82a5534f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb0a58af252132e75298b6863a4fc8f') in 0.004825 seconds
+  Import took 0.008286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.853622 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(936368b9ccc9db44aa729d2b82a5534f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(936368b9ccc9db44aa729d2b82a5534f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb0a58af252132e75298b6863a4fc8f') in 0.002675 seconds
+  Import took 0.006301 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001268 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.801 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2283 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.6 MB.
+System memory in use after: 124.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2893.
+Total: 2.154800 ms (FindLiveObjects: 0.230600 ms CreateObjectMapping: 0.091200 ms MarkObjects: 1.819000 ms  DeleteObjects: 0.013200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.833 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2283 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.4 MB.
+System memory in use after: 124.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2895.
+Total: 2.504800 ms (FindLiveObjects: 0.276500 ms CreateObjectMapping: 0.134900 ms MarkObjects: 2.074800 ms  DeleteObjects: 0.016900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invalid AssetDatabase path: /Editor/EditorResources/cm_logo_sm.png. Use path relative to the project folder.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.AssetDatabase:LoadAssetAtPath<UnityEngine.Texture2D> (string)
+Cinemachine.Editor.CinemachineSettings:get_CinemachineLogoTexture () (at Library/PackageCache/com.unity.cinemachine@2.6.3/Editor/Windows/CinemachineSettings.cs:205)
+Cinemachine.Editor.CinemachineSettings:.cctor () (at Library/PackageCache/com.unity.cinemachine@2.6.3/Editor/Windows/CinemachineSettings.cs:237)
+Cinemachine.CinemachineColliderPrefs:.cctor () (at Library/PackageCache/com.unity.cinemachine@2.6.3/Editor/Windows/CinemachineColliderPrefs.cs:61)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.cinemachine@2.6.3/Editor/Windows/CinemachineSettings.cs line 205]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.815 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2429 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.5 MB.
+System memory in use after: 130.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3042.
+Total: 2.444000 ms (FindLiveObjects: 0.307300 ms CreateObjectMapping: 0.184800 ms MarkObjects: 1.906300 ms  DeleteObjects: 0.044500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001227 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2430 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.7 MB.
+System memory in use after: 130.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3045.
+Total: 4.572300 ms (FindLiveObjects: 0.641100 ms CreateObjectMapping: 0.371300 ms MarkObjects: 3.514800 ms  DeleteObjects: 0.042300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001228 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.818 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2429 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.4 MB.
+System memory in use after: 130.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3047.
+Total: 2.987500 ms (FindLiveObjects: 0.256900 ms CreateObjectMapping: 0.113800 ms MarkObjects: 2.570500 ms  DeleteObjects: 0.045200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
