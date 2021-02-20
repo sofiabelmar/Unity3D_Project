@@ -40,6 +40,9 @@
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
      <Compile Include="Assets\Scripts\Inventary\Potion.cs" />
+     <Compile Include="Assets\Scripts\Inventary\Item.cs" />
+     <Compile Include="Assets\Scripts\Inventary\Consumible.cs" />
+     <Compile Include="Assets\Scripts\Inventary\HealthPotion.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
